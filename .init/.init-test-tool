@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/bounding-ball-web-application-bdd187ef/bounding_ball_frontend"
+}
